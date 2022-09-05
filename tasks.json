@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Clean the house",
+    "completed": true
+  },
+  {
+    "description": "Renew Inspection",
+    "completed": false
+  },
+  {
+    "description": "Pot Plants",
+    "completed": false
+  }
+]
